@@ -111,7 +111,7 @@
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-    color: var(--primary);
+    color: var(--primary); /*** cambiar color HOME en barra de navegacion***/
 }
 
 @media (max-width: 991.98px) {
@@ -186,7 +186,7 @@
     align-items: center;
     justify-content: center;
     color: #FFFFFF;
-    background: var(--primary);
+    background: var(--primary); /*** cambiar color de botones flechas en carrusel ***/
     border-radius: 40px;
     font-size: 20px;
     transition: .5s;
@@ -247,7 +247,7 @@
 }
 
 .cat-item:hover div {
-    background: var(--primary);
+    background: var(--primary); /**** Cambiar sombra de Tipoogias***/
     border-color: transparent;
 }
 
