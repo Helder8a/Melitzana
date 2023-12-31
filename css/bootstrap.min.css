@@ -8289,7 +8289,7 @@ fieldset:disabled .btn {
 }
 
 .text-secondary {
-    color: #000000 !important
+    color: #dc3545 !important /*** cambiar color de texto Titulo en Carousela ***/
 }
 
 .text-success {
